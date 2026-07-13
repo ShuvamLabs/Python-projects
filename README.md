@@ -2,7 +2,7 @@
 
 A collection of Python programs covering everything from core Python concepts to data analysis and visualization.
 
-## 📚 Topics
+## Topics
 
 - Python Basics
 - Control Flow
@@ -15,14 +15,14 @@ A collection of Python programs covering everything from core Python concepts to
 - Matplotlib
 - Mini Projects
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python 3
 - NumPy
 - Pandas
 - Matplotlib
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/your-username/python-projects.git
@@ -30,8 +30,8 @@ cd python-projects
 pip install -r requirements.txt
 ```
 
-## 🎯 Goal
+## Goal
 
 To strengthen Python programming skills through hands-on practice and build a solid foundation for Data Science, Machine Learning, and AI.
 
-⭐ Feel free to explore, learn, and contribute!
+Feel free to explore, learn, and contribute!
