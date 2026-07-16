@@ -17,7 +17,7 @@ A collection of Python programs covering everything from core Python concepts to
 
 ## Tech Stack
 
-- Python 3
+- Python 3.11
 - NumPy
 - Pandas
 - Matplotlib
